@@ -1,4 +1,4 @@
-We are still looking for people to submit jingles as its own folder (/Jingles) and Utility files like templates for different time signatures.
+We are still looking for people to submit jingles as its own folder (/Jingles) and utility files (/Utility) like templates for different time signatures.
 
 # Credits
 
