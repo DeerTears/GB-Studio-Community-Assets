@@ -44,21 +44,15 @@ Join the GB Studio discord to answer your music questions: https://discord.gg/2h
 How music files are grouped here are by no means strict rules, but I would like to use the following genres for songs:
 
 - Action
-- Cutscene
-- Logo Theme
-- Menu Theme
+- Cutscenes
+- Jingles
+- Menu Themes
 - Overworld
 - SFX
-- Utility
-
-A list will be created to host the names of song composers once pull requests start getting submitted.
+- Utility (templates for time signatures, other)
 
 ## Things yet to be done:
 
-Create a step by step "How to make a pull request" tutorial in this document - *Good first issue*
-
-Create SFX framework with an example SFX  - *Good first issue*
-
-**Other stuff**
-
-Create Music genre framework with example music
+- Create a step by step "How to make a pull request" tutorial in this document
+- Submit an example jingle
+- Submit example templates for songs in 4/4, 6/8, etc.
