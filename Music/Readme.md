@@ -1,12 +1,4 @@
-How music files are grouped here are by no means strict rules, but I would like to use the following genres for songs:
-
-- Action
-- Cutscene
-- Logo Theme
-- Menu Theme
-- Overworld
-- SFX
-- Utility
+We are still looking for people to submit jingles as its own folder (/Jingles) and Utility files like templates for different time signatures.
 
 # Credits
 
