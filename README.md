@@ -1,13 +1,15 @@
 # GB-Studio-Community-Assets
 For all users to submit their own works! Must be original and usable in GB Studio.
 
+You must be okay with all of your submitted work being under the MIT Licence.
+
 In the future this repo could be accessed through a much more user-friendly website. For now, here's a framework to organise our community assets.
 
-# Contribution Guidelines and General Help
+# Contribution Guidelines
 
-Create a Github account, make a fork of this repository, add your own stuff and make a pull request. Make sure the page is showing `[my repository] << [your fork]` and I will credit your name in a credits document so we can keep track of who's done what in a more elegant manner than Git's default. Please let me know if you'd like to be a collaborator on this repo so I'm not the only one approving all the pull requests. ;;
+Create a Github account, make a fork of this repository, add your own stuff and make a pull request. Make sure the page is showing `[my repository] << [your fork]` and I will credit your name in a credits document so we can keep track of who's done what in a more elegant manner than Git's default.
 
-You must be okay with all of your submitted work being under a Attribution 4.0 International (CC BY 4.0) licence.
+Please let me know if you'd like to be a collaborator on this repo so I'm not the only one approving all the pull requests. ;;
 
 ## Background Guidelines
 
