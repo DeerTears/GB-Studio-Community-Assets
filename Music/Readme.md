@@ -13,6 +13,15 @@ We are still looking for people to submit jingles as its own folder (/Jingles) a
 - Tape It Together.mod - "Dungeon Spelunking Music"
 - The Gang's All Here.mod - "The intro part is out of key but it's otherwise a lighthearted song for walking in the park"
 
+**Tomas Danko:**
+
+http://www.danko.se/
+
+Shared under the Attribution 4.0 CC Licence.
+
+- FridgeMusic.mod - Slow, unsteady but relaxed
+- Park Music.mod - Upbeat version of Fridgemusic, very catchy
+
 Docs: https://www.gbstudio.dev/docs/music/
 
 Join the GB Studio discord to answer your music questions: https://discord.gg/2hYeJ4m
