@@ -1,15 +1,15 @@
 # GB-Studio-Community-Assets
 For all users to submit their own works! Must be original and usable in GB Studio.
 
-In the future this repo could be accessed through a much more user-friendly website. (I would be honoured if someone actually took that initiative, web design is not in my skillset - Ember) For now, here's a framework to organise our community assets.
+In the future this repo could be accessed through a much more user-friendly website. For now, here's a framework to organise our community assets.
 
 # Contribution Guidelines and General Help
 
-Create a Github account, make a fork of this repository, add your own stuff and make a pull request. I will credit your name in a credits document so we can keep track of who's created what. Please let me know if you'd like to be a collaborator on this repo so I'm not the only one approving all the pull requests. ;;
+Create a Github account, make a fork of this repository, add your own stuff and make a pull request. Make sure the page is showing `[my repository] << [your fork]` and I will credit your name in a credits document so we can keep track of who's done what in a more elegant manner than Git's default. Please let me know if you'd like to be a collaborator on this repo so I'm not the only one approving all the pull requests. ;;
 
-You must be okay with all of your submitted work being under the MIT license, and I'll probably change this to a more suitable creative commons license soon.
+You must be okay with all of your submitted work being under a Attribution 4.0 International (CC BY 4.0) licence.
 
-## Backgrounds
+## Background Guidelines
 
 Docs: https://www.gbstudio.dev/docs/backgrounds/
 
@@ -23,19 +23,19 @@ Use [Tiled](https://www.mapeditor.org/) or other programs to help you allign the
 
 Please only put tilesets in the graphics/tilesets folder and finished backgrounds in the /backgrounds folder.
 
-## Sprites
+## Sprite Guidelines
 
 Docs: https://www.gbstudio.dev/docs/sprites/
 
 Please keep static sprites in the `/sprites/static/` folder and all not-animated actors in the `/sprites/actors` folder. Animated actors belong only in `/sprites/anim-actors/` and all other animated sprites belong only in `/sprites/anim/`
 
-## UI
+## UI Guidelines
 
 Docs: https://www.gbstudio.dev/docs/ui-elements/
 
 Please put ascii files in the `/fonts` folder and everything else in the `/UI` folder.
 
-## Music
+## Music Guidelines
 
 Docs: https://www.gbstudio.dev/docs/music/
 
@@ -53,6 +53,9 @@ How music files are grouped here are by no means strict rules, but I would like 
 
 ## Things yet to be done:
 
-- Create a step by step "How to make a pull request" tutorial in this document
-- Submit an example jingle
-- Submit example templates for songs in 4/4, 6/8, etc.
+**Music:**
+
+- An example jingle
+- Example templates for songs in 4/4, 6/8, etc.
+- Example rangetest utility .mod
+- Example of .midi converted to .mod
