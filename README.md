@@ -1,15 +1,19 @@
 # GB-Studio-Community-Assets
 For all users to submit their own works! Must be original and usable in GB Studio.
 
-You must be okay with all of your submitted work being under the MIT Licence.
+You must be okay with all of your submitted work being under the MIT Licence. If a file has an exception to this liscence, it will be noted on the README of the folder that the file is in.
+
+You can find credits to all contributors in the respective folder READMEs.
 
 In the future this repo could be accessed through a much more user-friendly website. For now, here's a framework to organise our community assets.
 
-# Contribution Guidelines
+# Contribution Guidelines/How-To
 
-Create a Github account, make a fork of this repository, add your own stuff and make a pull request. Make sure the page is showing `[my repository] << [your fork]` and I will credit your name in a credits document so we can keep track of who's done what in a more elegant manner than Git's default.
+Create a Github account, make a fork of this repository, add your own stuff and make a pull request. Make sure the page is showing `[my repository] << [your fork]` and I will credit your name in a credits document so we can keep track of who's done what in a more elegant manner.
 
-Please let me know if you'd like to be a collaborator on this repo so I'm not the only one approving all the pull requests. ;;
+If you'd like to add your own name in the readme's during your pull request, feel free to do so.
+
+And **please** ask if you'd like to be a collaborator on this repo. I'd like to not be the only one approving pull requests/adding things!
 
 ## Background Guidelines
 
@@ -43,21 +47,21 @@ Docs: https://www.gbstudio.dev/docs/music/
 
 Join the GB Studio discord to answer your music questions: https://discord.gg/2hYeJ4m
 
-How music files are grouped here are by no means strict rules, but I would like to use the following genres for songs:
+The following folders exist for music:
 
-- Action
-- Cutscenes
-- Jingles
-- Menu Themes
-- Overworld
-- SFX
-- Utility (templates for time signatures, other)
+- **Action** - Boss themes, battle themes, tense music
+- **Cutscenes** - Short or non-loopable thematic songs
+- **Jingles** - Works well for games with lots of sound effects. Also great for those who have a hard time starting songs.
+- **Menu Themes** - Songs for a main menu/inventory screen
+- **National Anthems** - Add yours!
+- **Overworld** - Songs for exploring
+- **SFX** - Sound effects of all sorts
+- **Utility** - Template Drumbeats and a Milkytracker-ready template
 
 ## Things yet to be done:
 
 **Music:**
 
-- An example jingle
 - Example templates for songs in 4/4, 6/8, etc.
 - Example rangetest utility .mod
 - Example of .midi converted to .mod
