@@ -1,4 +1,5 @@
-# GB-Studio-Community-Assets
+![alt text](https://github.com/DeerTears/GB-Studio-Community-Assets/blob/master/titlecard_july11_2019.png "GB Studio Community Assets Titlecard")
+
 For all users to submit their own works! Must be original and usable in GB Studio.
 
 You must be okay with all of your submitted work being under the MIT Licence. If a file has an exception to this liscence, it will be noted on the README of the folder that the file is in.
@@ -6,6 +7,10 @@ You must be okay with all of your submitted work being under the MIT Licence. If
 You can find credits to all contributors in the respective folder READMEs.
 
 In the future this repo could be accessed through a much more user-friendly website. For now, here's a framework to organise our community assets.
+
+# Notice
+
+I'd love to accept any unofficial modifications to GB Studio or its compontents if they can be shared under the MIT Licence or the GPL 3.0 licence. Get in contact with me about this if this is you. Ember#1765 is my Discord handle.
 
 # Contribution Guidelines/How-To
 
