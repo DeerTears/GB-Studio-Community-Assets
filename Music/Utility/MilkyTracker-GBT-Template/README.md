@@ -14,13 +14,7 @@ These templates were created by Ember#1765 / DeerTears with the help of Melonade
 
 If you use MilkyTracker, you can save yourself some time when composing for GBT Player by using these templates. Normally you'd have to hit "save as" on template.mod to work in .xm, but these templates have done it for you. MilkyTracker corrupts .mod files if they are opened and then "save" is pressed, which is why you want to work in the. xm format.
 
-**Basically,** you can hit "save as" on any file to convert to a different file extension, just *never* hit "save" on a .mod file in Milkytracker. Work in .xm files and "save as" .mod when you want to test your song in-game.
-
-## Why do we need templates?
-
-First of all, any GB Studio composers should know that GB Studio relies entirely on GBT Player for .mod file playback. Second of all, GBT Player users should know that it does not read custom sampledata from the .mod file you're making.
-
-GBT Player has a bunch of pre-baked instruments to be called upon, so you're just writing the note, instrument and effect data with the .mod format. These .xm files contain instruments that are examples of what you will hear when your .mod file is played back with GBT Player.
+**Basically,** you can hit "save as" on any file to convert to a different file extension, just *never* hit "save" on a .mod file in Milkytracker. Work in .xm files and "save as" .mod when you want to test your song in-game. These .xm files just save you from having to do this every time you want to use the preview GBT instruments found in template.mod.
 
 ## Which template should I use?
 
@@ -42,11 +36,11 @@ I hope this gets the idea across about what instruments can be used on which cha
 
 Alright, back to talking about both templates at once:
 
-## How are these different from the existing template.mod?
+## Why do we need templates?
 
-Normally composers can load template.mod that's included with GBT Player and all of GB Studio's new projects so they have access to all of these example instruments, but if you're a Milkytracker user you'll soon discover that Milkytracker corrupts .mod files if the save button is pressed Milkytracker. A corrupted .mod sounds like fast, high-pitched squeaks followed by silence when played by GBT Player. The workaround is just to use "save as" to convert a .mod into an .xm file, and to only press "save" when working in the .xm file. When you want to test your song you'd press "save as" to turn your .xm file into a .mod file for GBT Player.
+First of all, any GB Studio composers should know that GB Studio relies entirely on GBT Player for .mod file playback. Second of all, GBT Player users should know that it does not read custom sampledata from the .mod file you're making.
 
-These .xm templates have the first step done for you, but you will still need to press "save as" to create a .mod file when you want to test your song.
+GBT Player has a bunch of pre-baked instruments to be called upon, so you're just writing the note, instrument and effect data with the .mod format. These .xm files contain instruments that are examples of what you will hear when your .mod file is played back with GBT Player.
 
 ## Tips on In-Game Volume Playback
 
