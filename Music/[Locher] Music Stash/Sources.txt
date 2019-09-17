@@ -1,0 +1,35 @@
+ FOLDER-STRUCTURE	ARTIST		SONG			LINK
+
+ --- battle_bgm
+> battletheme1		YU-NO  		Crisis 			https://www.youtube.com/watch?v=kIXlS9sw50o
+> battletheme2		TQ-Jam 		Everlasting Saturday  	https://www.youtube.com/watch?v=n3nzb_xDm34
+> battletheme3		TQ-Jam		Murasaki		https://www.youtube.com/watch?v=nS_V9NCNjpU
+> bosstheme1		YU-NO		Fate (Law of Causality)	https://www.youtube.com/watch?v=2xE_26_RnQQ
+> finalbosstheme1	Riviera TPL	The Last Battle		https://www.youtube.com/watch?v=qPdcFcM5XoM
+
+ --- environment
+> forest		???		???			???
+> shop			YU-NO		FANKY TANG		https://www.youtube.com/watch?v=4yHTwvVmoXA
+
+ --- etc
+> Feueralarm		???		???			???
+> PhoenixWright		PhoenixWright	Trial			https://www.youtube.com/watch?v=FnmEnjWy288
+> zeldatheme		TLO Zelda	Original Theme		https://www.youtube.com/watch?v=4qJ-xEZhGms
+
+ --- mood
+> danger		YU-NO		Eery			https://www.youtube.com/watch?v=hh2hfwoGSpQ
+> heartache		YU-NO		Love 1			https://www.youtube.com/watch?v=Estjb2nAJyA
+> melancholy		???		???			???
+> sinister		YU-NO		Opening			https://www.youtube.com/watch?v=jDKlSE9YZtk
+> soul			YU-NO		Sayless			https://www.youtube.com/watch?v=L75yI2etN5g
+> tension		YU-NO		Frustration 1		https://www.youtube.com/watch?v=MDs6GFLakWw
+> tranquility		YU-NO		Kanna			https://www.youtube.com/watch?v=oHPvR8zvQl0
+> transition
+
+ --- short
+> acquire		YU-NO		Opening			https://www.youtube.com/watch?v=jDKlSE9YZtk
+> saving		YU-NO		Jewel Discovery		https://www.youtube.com/watch?v=ng9emZOpMMg
+
+ --- titlescreen
+> titlescreen1		YU-NO		Departure		https://www.youtube.com/watch?v=T33LY5HaO3k
+> titlescreen2		Stella Glow	Title Screen		https://www.youtube.com/watch?v=Mm2gS1CFd7M
