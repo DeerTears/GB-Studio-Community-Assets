@@ -7,3 +7,11 @@
 **Chris Maltby:**
 
 - `default ascii.png`: The default character set that comes with GB Studio.
+
+**krümel:**
+
+- `Kirby's Adventure Ability Help`
+- `Love Story and Theremin`
+- `Multiboot Menu (GBA)`
+- `Trolls on Treasure Island`
+- `Zero Wing`
