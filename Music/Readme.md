@@ -1,4 +1,4 @@
-We're still looking for people to submit templates for different time signatures, utilising B effects to switch to the next pattern
+We're still looking for people to submit templates for different time signatures, and a demonstration of how to utilise B effects to switch to the next pattern
 
 Join the GB Studio discord to answer your music questions: https://discord.gg/2hYeJ4m
 
@@ -43,7 +43,7 @@ Music Docs: https://www.gbstudio.dev/docs/music/
 - Victory Fanfare
 - Victory Lap
 
-**Utility/Drumbeats**
+**Drumbeats**
 - Messy 90s Uptempo Hiphop (Drums Solo 1)
 - Kick Kick Snare (Drums Solo 2)
 - Backbeat Metal Drumming (Drums Solo 3)
@@ -107,6 +107,10 @@ Music Docs: https://www.gbstudio.dev/docs/music/
 **Overworld**
 - Darkstone - Delay-heavy song for caves, featured in the game 6rooms
 - The Gang's All Here - The intro part is out of key but it's otherwise a lighthearted song for walking in the park
+
+**MilkyTracker Templates**
+- tastytemplate.xm - A template with named instrument channels and cleared song data.
+- template.xm - An authentic conversion of template.mod to .xm
 
 **Tomas Danko:**
 
