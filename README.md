@@ -56,17 +56,11 @@ The following folders exist for music:
 
 - **Action** - Boss themes, battle themes, tense music
 - **Cutscenes** - Short or non-loopable thematic songs
-- **Jingles** - Works well for games with lots of sound effects. Also great for those who have a hard time starting songs.
+- **Drumbeats** - Non-melodic patterns, good song-starters.
+- **Jingles** - Short melodic pieces, great for games that have to stop the music often.
 - **Menu Themes** - Songs for a main menu/inventory screen
-- **National Anthems** - Add yours!
-- **Overworld** - Songs for exploring
+- **MilkyTracker Templates** - Get started in MilkyTracker, faster!
+- **National Anthems** - Add your own!
+- **Overworld** - Songs for exploring an overworld
 - **SFX** - Sound effects of all sorts
-- **Utility** - Template Drumbeats and a Milkytracker-ready template
-
-## Things yet to be done:
-
-**Music:**
-
-- Example templates for songs in 4/4, 6/8, etc.
-- Example rangetest utility .mod
-- Example of .midi converted to .mod
+- **Utility** - This folder is currently archived
