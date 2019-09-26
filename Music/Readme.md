@@ -1,5 +1,3 @@
-We're still looking for people to submit templates for different time signatures, and a demonstration of how to utilise B effects to switch to the next pattern
-
 Join the GB Studio discord to answer your music questions: https://discord.gg/2hYeJ4m
 
 Music Docs: https://www.gbstudio.dev/docs/music/
@@ -11,6 +9,7 @@ Music Docs: https://www.gbstudio.dev/docs/music/
 **Action**
 - Boss Fight 1: Fast, upbeat, hectic
 - Boss Fight 2: Cool, steady backbeat, tense
+- Boss Fight 3: Tense, collected
 - Sneaking Around: Short, low-key stealth tune
 
 **Cutscenes**
@@ -21,6 +20,8 @@ Music Docs: https://www.gbstudio.dev/docs/music/
 **Overworld**
 - Peppy Regal Overworld
 - Great Melody01
+- Great Melody02
+- Little Tune 11
 - In the Town
 
 **Jingles**
@@ -31,6 +32,7 @@ Music Docs: https://www.gbstudio.dev/docs/music/
 - Falling Asleep
 - Game Over Loop
 - Nursery Rhyme with pauses
+- Out of Energy Game Over
 - Pitfall Death
 - Radical Intro
 - Radical Victory
@@ -44,17 +46,17 @@ Music Docs: https://www.gbstudio.dev/docs/music/
 - Victory Lap
 
 **Drumbeats**
-- Messy 90s Uptempo Hiphop (Drums Solo 1)
-- Kick Kick Snare (Drums Solo 2)
-- Backbeat Metal Drumming (Drums Solo 3)
-- Boots Cats (Drums Solo 4)
-- Duck Tales Drumbeat (Drums Solo 5)
-- Kick Kick Kick Crash (Drums Solo 6)
-- Halftime Metal Drumming (Drums Solo 7)
-- Supa-Hip Breakbeat (Drums Solo 8)
-- Backbeat with Hats (Drums Solo 9)
-- Upbeat Metal Drumming (Drums Solo 11)
-- Kick Stutter (Drums Solo 12)
+- Messy 90s Uptempo Hiphop
+- Kick Kick Snare
+- Backbeat Metal Drumming
+- Boots Cats
+- Duck Tales Drumbeat
+- Kick Kick Kick Crash
+- Halftime Metal Drumming
+- Supa-Hip Breakbeat
+- Backbeat with Hats
+- Upbeat Metal Drumming
+- Kick Stutter
 
 **National Anthems**
 - France Intro - Opening 4 bars of France's national anthem
