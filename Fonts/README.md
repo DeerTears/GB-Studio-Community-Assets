@@ -15,3 +15,7 @@
 - `Multiboot Menu (GBA)`
 - `Trolls on Treasure Island`
 - `Zero Wing`
+
+**DigiDuncan:**
+
+- `hex.png`: A debugging tool to help you find the location of special characters on the sheet.
