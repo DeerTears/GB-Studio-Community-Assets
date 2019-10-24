@@ -19,3 +19,4 @@
 **DigiDuncan:**
 
 - `hex.png`: A debugging tool to help you find the location of special characters on the sheet.
+- `Gothic`: A rough conversion of the MS Gothic font, with some liberties taken for the format. Also included, single characters for 10-20.
