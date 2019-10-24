@@ -1,16 +1,17 @@
 ![alt text](https://github.com/DeerTears/GB-Studio-Community-Assets/blob/master/titlecard_july11_2019.png "GB Studio Community Assets Titlecard")
 
-For all users to submit their own works! Must be original and usable in GB Studio. **Please do not upload content that you did not make or ask permission to specifically upload to this repository!**
+For all users to submit their own works! Must be original and usable in GB Studio.
+### Please do not upload content that you did not make!
 
-You must be okay with all of your submitted work being under the MIT Licence. That means it can be used commercially and redistributed. Only some files in /music have exceptions to this liscence, and these exceptions are noted in the READMEs of the subfolders. **Please take your time to read up on who made the thing that you're downloading and include their name in your game's credits!** You can find credits to all content contributors in each folder's README file.
+You can find credits to all content contributors in each folder's README file. Please take your time to read up on who made the thing that you're downloading and include their name in your game's credits!
 
-And lastly, **please ask if you'd like to be a collaborator on this repo.** I'd like to not be the only one approving pull requests/adding things! Nonetheless I love what all of you have done to make this repository what it is. <3
+If you're submitting your own work, you must be okay with all of your submitted work being under the MIT Licence. That means it can be used commercially and redistributed. If you're submitting someone else's work, please make sure they're aware of the fact that it's going under the MIT Licence, no exceptions for new files.
 
-# Notice About GB Studio Modifications:
+# Notice About GB Studio/Component Modifications:
 
-I'd love to accept any unofficial modifications to GB Studio or its compontents if they can be shared under the MIT Licence or the GPL 3.0 licence. Get in contact with me about this if this is you. Ember#1765 is my Discord handle.
+I'd love to accept any unofficial modifications to GB Studio or its compontents if they can be shared under the MIT Licence or the GPL 3.0 licence. Ember#1765 is my Discord handle, let me know if you'd like to add experimental features of the engine to this repository. (different GBT waveforms, different palettes, different character sets, etc.)
 
-# Contribution Guidelines/How-To
+# How-To Contribute / Contribution Guidelines
 
 Give unique and distinctive names to all the files you submit! This makes it *much* easier for users to browse and to find specific file credits in the README files.
 
@@ -20,13 +21,27 @@ Give unique and distinctive names to all the files you submit! This makes it *mu
 
 3. Upload your own files to your own fork
 
-4. Make a pull request. Make sure the page is showing `[my repository] << [your fork]`
+4. Edit the README.md of the folder that has your new files to include the following formatting:
 
-5. a) I will credit your name in a credits document so we can keep track of who's done what in a more elegant manner.
+///
 
-5. b) I will ask you to change something to better suit the organization system of this repositroy.
+**Your Name:**
 
-And if you'd like to do the courtesy of adding your own name in the readme's during your pull request, feel free to do so!
+``Your file`` - And a little blurb describing it
+
+///
+
+5. Make a pull request. Make sure the page is showing `[my repository] << [your fork]`
+
+6. If you'd like to be added to the contributors list so you can approve your own pull requests or approve others', just let me know in your pull request.
+
+# Asset Guidelines
+
+**Index:**
+1. Backgrounds
+2. Sprites
+3. UI
+4. Music
 
 ## Background Guidelines
 
