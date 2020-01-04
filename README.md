@@ -3,9 +3,11 @@
 For all users to submit their own works! Must be original and usable in GB Studio.
 ### Please do not upload content that you did not make!
 
-You can find credits to all content contributors in each folder's README file. Please take your time to read up on who made the thing that you're downloading and include their name in your game's credits!
+Everything in here in under the MIT Licence. No credit is required, all assets can be used commercially, and nothing is stopping you from redistributing these assets as well.
 
-If you're submitting your own work, you must be okay with all of your submitted work being under the MIT Licence. That means it can be used commercially and redistributed. If you're submitting someone else's work, please make sure they're aware of the fact that it's going under the MIT Licence, no exceptions for new files.
+HOWEVER, in the interest of giving thanks to our contributors, you can find credits to all the contributors in each folder's README file. Please take your time to read up on who made the thing that you're downloading and consider including their name in your game's credits!
+
+If you're submitting your own work, you must be okay with all of your submitted work being under the MIT Licence. That means it can be used commercially and redistributed. If you're submitting someone else's work, they must consent to have their work placed in a repository under the MIT Licence before anything else.
 
 # Notice About GB Studio/Component Modifications:
 
