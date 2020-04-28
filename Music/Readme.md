@@ -11,11 +11,23 @@ Music Docs: https://www.gbstudio.dev/docs/music/
 - Boss Fight 2: Cool, steady backbeat, tense
 - Boss Fight 3: Tense, collected
 - Sneaking Around: Short, low-key stealth tune
+- Free OST 1 Fighting
+- Free OST 1 Backstreets
+- Joyous Takeoff
+- Dancing and Infiltrating
+- Sugar Craze
+- Monty's Overheating Spaceship
 
 **Cutscenes**
 - Detective Intro - short silence at start (Little Tune 3)
 - Peppy Pop Song - length of 1:24, doesn't loop (Ending1)
 - Determined
+- Twilight Drive
+- Free OST 1 Fanfare
+- Free OST 1 Ending Theme
+
+**Menu Themes**
+- Free OST 1 Character Select
 
 **Overworld**
 - Peppy Regal Overworld
@@ -23,6 +35,7 @@ Music Docs: https://www.gbstudio.dev/docs/music/
 - Great Melody02
 - Little Tune 11
 - In the Town
+- Villains of Hiphop
 
 **Jingles**
 - Awkward Death
@@ -44,6 +57,7 @@ Music Docs: https://www.gbstudio.dev/docs/music/
 - The Sad Truth
 - Victory Fanfare
 - Victory Lap
+- Rascal's Ditty
 
 **Drumbeats**
 - Messy 90s Uptempo Hiphop
