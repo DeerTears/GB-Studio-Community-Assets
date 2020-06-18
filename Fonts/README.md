@@ -24,3 +24,7 @@
 **Animacreep/Anima/Animaloser:**
 
 - `modifiedfinalfantasylegends.png`: Modified Final Fantasy Legends font.
+
+**LoftyAu:**
+
+- `spongebob.png`: A Spongebob-esque GB font.
