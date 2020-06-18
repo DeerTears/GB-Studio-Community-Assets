@@ -25,3 +25,7 @@
 
 - `modifiedfinalfantasylegends.png`: Modified Final Fantasy Legends font.
 - `thinrpg.png`: Thin font. For easy reading.
+
+**LoftyAu:**
+
+- `spongebob.png`: A Spongebob-esque GB font.
