@@ -125,7 +125,6 @@ Music Docs: https://www.gbstudio.dev/docs/music/
 - The Gang's All Here - The intro part is out of key but it's otherwise a lighthearted song for walking in the park
 
 **MilkyTracker Templates**
-- tastytemplate.xm - A template with named instrument channels and cleared song data.
 - template.xm - An authentic conversion of template.mod to .xm
 
 **Tomas Danko:**
