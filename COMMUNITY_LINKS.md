@@ -1,10 +1,13 @@
 # Community Links
 
+None of these links are endorsed officially by GB Studio or Chris Maltby.
+
 ## Free Software
 
-Name | Author | Use | Website | From GBS Community
+Name | Author | Use | Website | From GB Community
 ---- | ------ | --- | ------- | ------
 GylphBoy Swap | sododev | Hacks non-Latin Glyphs into GBS | https://sododev.itch.io/glyphboyswap | Yes
+Gameboy Sprite Exporter | momeka | Counts and Manages Unique 8x8 Background Tiles | https://momeka.itch.io/gameboy-tools | Yes
 RotSprite | Xenowhirl | Rotates pixel art | http://info.sonicretro.org/RotSprite | No
 
 ## Project Templates
