@@ -17,9 +17,13 @@ Name | Author | Latest Compatible Version | Link
 Actor Switching | digthezig | 1.1.0 | https://digthezig.itch.io/switching
 3D Maze | jojoruteon | 1.2.1 | https://jojoruteon.itch.io/3dmaze-gbstudio
 Battle System | manugamesdev | 1.1.0 | https://manugamesdev.itch.io/battle-system
+Dungeon Crawler Template | TOXWORKS | 1.2.0 | https://toxworks.itch.io/dungeon-crawler-in-gb
 Real Time Combat | manugamesdev | 1.1.0 | https://manugamesdev.itch.io/real-time-combat
 Menu/Inventory System | TOXWORKS | 1.1.0 | https://toxworks.itch.io/menu-system-in-gb
+Portal Gun System for GB Studio | TOXWORKS | 1.2.0 | https://toxworks.itch.io/portal-gun-system-in-gb
+Sododev Text Input | SodoDev | 2.0.0 | https://sododev.itch.io/sododev-text-input
 Text Input | TOXWORKS | 1.1.0 | https://toxworks.itch.io/text-input-system-in-gb
+Text Entry Template | Setsune Wave | 2.0.0 | https://setsune.itch.io/textinputgbs2
 
 ## Free Asset Packs
 
