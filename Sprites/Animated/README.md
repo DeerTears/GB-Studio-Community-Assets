@@ -14,3 +14,7 @@ By krümel on the GB Studio Discord:
 - `Crosshair`
 - `Dice`
 - `krümel's People`
+
+By Kalyen
+- `Fairy_wing_r.png`
+- `Fairy_wing_l.png`: Flapping wings
