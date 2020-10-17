@@ -1,6 +1,6 @@
 # Community Links
 
-None of these links are endorsed officially by GB Studio or Chris Maltby. As always, enter at your own risk.
+None of these links are endorsed officially by GB Studio or Chris Maltby. Not all of the contents following these links are usable under the MIT licence. Refer to each page for licence details. As always with the internet, enter at your own risk.
 
 ## Free Software
 
@@ -39,6 +39,7 @@ Where's Naldo + Extra | moshuo | Tileset | https://moshuo.itch.io/gbstudio-sprit
 GB Studio Tiles - Woodland | pixelmech | Tilemap, Tiled Working File | https://pixelmech.itch.io/gb-studio-tiles
 sprite-pack-1 | pollorenzo | Animated Actors, UI Elements | https://pollorenzo.itch.io/sprite-pack-1
 GB Studio Sprites 16x16 | rekkimaru | Actors | https://rekkimaru.itch.io/gb-studio-sprites-16x16
+GB Studio Dungeon Tileset | rekkimaru | Tilemap, Actors, Tiled Working File | https://rekkimaru.itch.io/gb-studio-dungeon-tileset-8x8
 DIALOG BOXES + MORE FOR GB STUDIO | wyatt199x | UI Elements, Default Font Alterations | https://wyatt199x.itch.io/dialog-boxes-more-for-gb-studio
 Route1.mod | copperine | Free, non-descript song | https://cdn.discordapp.com/attachments/570924885291827200/759130941532274708/route1.mod
 
