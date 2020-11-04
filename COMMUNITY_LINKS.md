@@ -42,6 +42,9 @@ GB Studio Sprites 16x16 | rekkimaru | Actors | https://rekkimaru.itch.io/gb-stud
 GB Studio Dungeon Tileset | rekkimaru | Tilemap, Actors, Tiled Working File | https://rekkimaru.itch.io/gb-studio-dungeon-tileset-8x8
 DIALOG BOXES + MORE FOR GB STUDIO | wyatt199x | UI Elements, Default Font Alterations | https://wyatt199x.itch.io/dialog-boxes-more-for-gb-studio
 Route1.mod | copperine | Free, non-descript song | https://cdn.discordapp.com/attachments/570924885291827200/759130941532274708/route1.mod
+GB Studio Sprites | rustedparadigm | Animated Actors | https://rustedparadigm.itch.io/gbstudio-sprites
+GB Studio Tilesets | rustedparadigm | Tilesets | https://rustedparadigm.itch.io/gbstudio-tilesets
+GB Studio Spartan Templates | rustedparadigm | Spartan Working Files | https://rustedparadigm.itch.io/gbs-spartan-templates
 
 ## Free Fonts
 
