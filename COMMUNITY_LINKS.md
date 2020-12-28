@@ -27,6 +27,7 @@ Portal Gun System for GB Studio | TOXWORKS | 1.2.0 | https://toxworks.itch.io/po
 Sododev Text Input | SodoDev | 2.0.0 | https://sododev.itch.io/sododev-text-input
 Text Input | TOXWORKS | 1.1.0 | https://toxworks.itch.io/text-input-system-in-gb
 Text Entry Template | Setsune Wave | 2.0.0 | https://setsune.itch.io/textinputgbs2
+Jumping for Other Actors (Platformer) | Bumbiss | 2.0.0 | https://bumbiss.itch.io/jumping-for-actors-in-gb-studio
 
 ## Free Asset Packs
 
@@ -41,7 +42,7 @@ sprite-pack-1 | pollorenzo | Animated Actors, UI Elements | https://pollorenzo.i
 GB Studio Sprites 16x16 | rekkimaru | Actors | https://rekkimaru.itch.io/gb-studio-sprites-16x16
 GB Studio Dungeon Tileset | rekkimaru | Tilemap, Actors, Tiled Working File | https://rekkimaru.itch.io/gb-studio-dungeon-tileset-8x8
 DIALOG BOXES + MORE FOR GB STUDIO | wyatt199x | UI Elements, Default Font Alterations | https://wyatt199x.itch.io/dialog-boxes-more-for-gb-studio
-Route1.mod | copperine | Free, non-descript song | https://cdn.discordapp.com/attachments/570924885291827200/759130941532274708/route1.mod
+Route1 Song.mod | copperine | Free song | https://cdn.discordapp.com/attachments/570924885291827200/759130941532274708/route1.mod
 GB Studio Sprites | rustedparadigm | Animated Actors | https://rustedparadigm.itch.io/gbstudio-sprites
 GB Studio Tilesets | rustedparadigm | Tilesets | https://rustedparadigm.itch.io/gbstudio-tilesets
 GB Studio Spartan Templates | rustedparadigm | Spartan Working Files | https://rustedparadigm.itch.io/gbs-spartan-templates
