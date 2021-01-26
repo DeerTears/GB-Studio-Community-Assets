@@ -2,7 +2,7 @@
 
 ## #1 Filenames
 
-Before anything, make sure the file you're adding has a unique and distinctive name.
+Make sure the file you're adding has a unique and distinctive name.
 If you're using a common name ("cactus", "apple", "dance") put a number at the end of it so others may use the same name.
 
 **Good filename examples:**
@@ -19,13 +19,11 @@ If you're using a common name ("cactus", "apple", "dance") put a number at the e
 - "plant27.png"
 - "background2.png
 - "template.mod"
-- "mysong.xm"
+- "mysong.mod"
 
 ## #2 Filetypes
 
-Please only add .png images and .mod music files if you're submitting assets to be used. No working files (.psd, .ai, .pdn, .gimp, .etc)
-
-Don't make anybody else have to do the file-conversion process!
+No working files (.psd, .ai, .pdn, .gimp, .etc). Please only add .png images and .mod music files if you're submitting assets to be used. Don't make anybody else have to do the file-conversion process!
 
 ## #3 The Github Process
 
