@@ -20,3 +20,12 @@
 
 - `hex.png`: A debugging tool to help you find the location of special characters on the sheet.
 - `Gothic`: A rough conversion of the MS Gothic font, with some liberties taken for the format. Also included, single characters for 10-20.
+
+**Anima/Animaloser/SodoDev:**
+
+- `modifiedfinalfantasylegends.png`: Modified Final Fantasy Legends font.
+- `thinrpg.png`: Thin font. For easy reading.
+
+**LoftyAu:**
+
+- `spongebob.png`: A Spongebob-esque GB font.

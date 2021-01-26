@@ -1,91 +1,25 @@
 ![alt text](https://github.com/DeerTears/GB-Studio-Community-Assets/blob/master/titlecard_july11_2019.png "GB Studio Community Assets Titlecard")
 
-For all users to submit their own works! Must be original and usable in GB Studio.
-### Please do not upload content that you did not make!
+For all users to submit their own works. Must be original and usable in GB Studio. **Please do not upload content that you did not make.**
 
-You can find credits to all content contributors in each folder's README file. Please take your time to read up on who made the thing that you're downloading and include their name in your game's credits!
+No attribution is required, all assets can be freely distributed and used commercially. If you're submitting your own work, you must be okay with it being used commercially and potentially redistributed without credit. Read the LICENCE file for more details.
 
-If you're submitting your own work, you must be okay with all of your submitted work being under the MIT Licence. That means it can be used commercially and redistributed. If you're submitting someone else's work, please make sure they're aware of the fact that it's going under the MIT Licence, no exceptions for new files.
+# How-To Credit
 
-# Notice About GB Studio/Component Modifications:
+A README.md file exists for each folder. These README files contain the names of every asset creator, followed by a list of the assets they've made for that particular folder. If you use an asset from the repository, please read-up on who made the asset you've downloaded and pay it forward by including the asset-maker's name in your game's credits. :)
 
-I'd love to accept any unofficial modifications to GB Studio or its compontents if they can be shared under the MIT Licence or the GPL 3.0 licence. Ember#1765 is my Discord handle, let me know if you'd like to add experimental features of the engine to this repository. (different GBT waveforms, different palettes, different character sets, etc.)
+# How-To Contribute
 
-# How-To Contribute / Contribution Guidelines
+[Read the CONTRIBUTING.MD file](https://github.com/DeerTears/GB-Studio-Community-Assets/blob/master/CONTRIBUTING.md)
 
-Give unique and distinctive names to all the files you submit! This makes it *much* easier for users to browse and to find specific file credits in the README files.
+If you need additional help having your assets added to the repository, or you're experiencing difficulties downloading/using any assets from this repository, [join the GB Studio Discord](https://discord.gg/2hYeJ4m).
 
-1. Have all your files ready to be added
+# Looking for Community-made Tools and Templates?
 
-2. Make a fork of this repository
+[See the list of Community Links.](https://github.com/DeerTears/GB-Studio-Community-Assets/blob/master/COMMUNITY_LINKS.md) This page contains links to tools, project templates, and asset packs for use with GB Studio.
 
-3. Upload your own files to your own fork
+# Broken .mod Files Warning
 
-4. Edit the README.md of the folder that has your new files to include the following formatting:
+There have been multiple reports of some .mod files being unreadible by OpenMPT and causing GB Studio to crash on build. This is being investigated. In the meantime, remember to save and backup your project folder, especially before adding new music. You can always test a .mod file using OpenMPT. If it won't play in OpenMPT first, it will crash GB Studio if you attempt to build with the .mod file in your project.
 
-///
-
-**Your Name:**
-
-``Your file`` - And a little blurb describing it
-
-///
-
-5. Make a pull request. Make sure the page is showing `[my repository] << [your fork]`
-
-6. If you'd like to be added to the contributors list so you can approve your own pull requests or approve others', just let me know in your pull request.
-
-# Asset Guidelines
-
-**Index:**
-1. Backgrounds
-2. Sprites
-3. UI
-4. Music
-
-## Background Guidelines
-
-"An image can contain no more than 192 unique 8px x 8px tiles at once due to memory limits."
-
-Use [Tiled](https://www.mapeditor.org/) or other programs to help you allign these backgrounds.
-
-Put tilesets in the graphics/tilesets folder, and finished backgrounds in the /backgrounds folder.
-
-Docs: https://www.gbstudio.dev/docs/backgrounds/
-
-Minimum file dimensions are 160px x 144px
-
-Maximum file dimensions are 256px x 256px
-
-## Sprite Guidelines
-
-Docs: https://www.gbstudio.dev/docs/sprites/
-
-Please keep static sprites in the `/sprites/static/` folder and all not-animated actors in the `/sprites/actors` folder. Animated actors belong only in `/sprites/anim-actors/` and all other animated sprites belong only in `/sprites/anim/`
-
-## UI Guidelines
-
-Name your file something unique, either with your own name or anything other than "ascii.png" or other default filenames.
-
-Put ascii files in the `/fonts` folder and everything else in the `/UI` folder.
-
-Docs: https://www.gbstudio.dev/docs/ui-elements/
-
-## Music Guidelines
-
-The following folders exist for music:
-
-- **Action** - Boss themes, battle themes, tense music
-- **Cutscenes** - Short or non-loopable thematic songs
-- **Drumbeats** - Non-melodic patterns, good song-starters.
-- **Jingles** - Short melodic pieces, great for games that have to stop the music often.
-- **Menu Themes** - Songs for a main menu/inventory screen
-- **MilkyTracker Templates** - Get started in MilkyTracker, faster!
-- **National Anthems** - Add your own!
-- **Overworld** - Songs for exploring an overworld
-- **SFX** - Sound effects of all sorts
-- **Utility** - This folder is currently archived and is planned to be deleted
-
-Docs: https://www.gbstudio.dev/docs/music/
-
-Join the GB Studio discord to answer your music questions: https://discord.gg/2hYeJ4m
+**Please report any bugged .mod files by name in the Issues tab!**
