@@ -29,3 +29,10 @@
 **LoftyAu:**
 
 - `spongebob.png`: A Spongebob-esque GB font.
+
+**KizulEmeraldfire**
+
+- `ascii_thick.png`: A bold font. (Dark characters on a light background.)
+- `ascii_thick_inverted.png`: A bold font. (Light characters on a dark background.)
+- `ascii_thick_italic.png`: A bold font, italicized... albeit rather lazily. (Dark characters on a light background.)
+- `ascii_thick_italic_inverted.png`: A bold font, italicized... albeit rather lazily. (Light characters on a dark background.)
