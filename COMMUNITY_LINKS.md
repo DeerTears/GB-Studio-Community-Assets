@@ -46,6 +46,7 @@ Route1 Song.mod | copperine | Free song | https://cdn.discordapp.com/attachments
 GB Studio Sprites | rustedparadigm | Animated Actors | https://rustedparadigm.itch.io/gbstudio-sprites
 GB Studio Tilesets | rustedparadigm | Tilesets | https://rustedparadigm.itch.io/gbstudio-tilesets
 GB Studio Spartan Templates | rustedparadigm | Spartan Working Files | https://rustedparadigm.itch.io/gbs-spartan-templates
+GameBoy Assets and Sprites | materialfuture | Outdoor foliage, rocks, Actor, Tileset | https://materialfuture.itch.io/gameboy-assets
 
 ## Free Fonts
 
