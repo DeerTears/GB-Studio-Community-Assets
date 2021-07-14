@@ -39,6 +39,7 @@ Gio Ex's GB studio Resource Pack | Gio-Ex | UI Elements, Background, Actor, | ht
 Where's Naldo + Extra | moshuo | Tileset | https://moshuo.itch.io/gbstudio-sprites
 GB Studio Tiles - Woodland | pixelmech | Tilemap, Tiled Working File | https://pixelmech.itch.io/gb-studio-tiles
 sprite-pack-1 | pollorenzo | Animated Actors, UI Elements | https://pollorenzo.itch.io/sprite-pack-1
+Fairy Fountain.mod | Skittles | Free song | https://cdn.discordapp.com/attachments/554713715942096916/864917924707696640/Fairy_Fountain_by_Skittles.mod
 GB Studio Sprites 16x16 | rekkimaru | Actors | https://rekkimaru.itch.io/gb-studio-sprites-16x16
 GB Studio Dungeon Tileset | rekkimaru | Tilemap, Actors, Tiled Working File | https://rekkimaru.itch.io/gb-studio-dungeon-tileset-8x8
 DIALOG BOXES + MORE FOR GB STUDIO | wyatt199x | UI Elements, Default Font Alterations | https://wyatt199x.itch.io/dialog-boxes-more-for-gb-studio
