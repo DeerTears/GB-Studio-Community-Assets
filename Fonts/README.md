@@ -40,3 +40,8 @@
 - `ascii_thick_inverted.png`: A bold font. (Light characters on a dark background.)
 - `ascii_thick_italic.png`: A bold font, italicized... albeit rather lazily. (Dark characters on a light background.)
 - `ascii_thick_italic_inverted.png`: A bold font, italicized... albeit rather lazily. (Light characters on a dark background.)
+
+**MOL:**
+
+- `Commodore 64 ASCII.png`: A rip of the Commodore 64 ASCII files
+- `Commodore 64 ASCII - Dark.png`: A dark version of the Commodore 64 ASCII files
