@@ -30,6 +30,10 @@
 
 - `spongebob.png`: A Spongebob-esque GB font.
 
+**Paige Ashlynn:**
+
+- `DotGothic8.png`: A slim font adapted from Kokiabe/Fontworks Inc.'s DotGothic16.
+
 **KizulEmeraldfire**
 
 - `ascii_thick.png`: A bold font. (Dark characters on a light background.)
