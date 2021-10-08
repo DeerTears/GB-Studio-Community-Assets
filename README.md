@@ -20,6 +20,6 @@ If you need additional help having your assets added to the repository, or you'r
 
 # Broken .mod Files Warning
 
-There have been multiple reports of some .mod files being unreadible by OpenMPT and causing GB Studio to crash on build. This is being investigated. In the meantime, remember to save and backup your project folder, especially before adding new music. You can always test a .mod file using OpenMPT. If it won't play in OpenMPT first, it will crash GB Studio if you attempt to build with the .mod file in your project.
+Back when the latest version was GB Studio Beta 2, there were multiple reports of some .mod files being unreadible by OpenMPT and causing GB Studio to crash on build. Remember to save your project before testing the game with new music. You can always test a .mod file risk-free using OpenMPT, saving it in OpenMPT is also known to fix "corrupted" mod files that were improperly saved in MilkyTracker.
 
 **Please report any bugged .mod files by name in the Issues tab!**
