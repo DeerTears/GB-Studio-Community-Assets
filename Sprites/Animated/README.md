@@ -18,3 +18,7 @@ By krümel on the GB Studio Discord:
 By Kalyen
 - `Fairy_wing_r.png`
 - `Fairy_wing_l.png`: Flapping wings
+
+By DeerTears
+- `large_coffee.png`
+- `small_coffee.png`
