@@ -8,7 +8,7 @@
 
 - `big_checkers.png`
 
-**GrumpyFunction:**
+**GumpyFunction:**
 
 - `Cabin(Exterior).png`
 - `Cabin(Interior).png`
