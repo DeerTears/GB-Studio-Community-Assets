@@ -23,7 +23,7 @@ By DeerTears
 - `large_coffee.png`
 - `small_coffee.png`
 
-By GrumpyFunction
+By GumpyFunction
 - `ChristmasCop_animated.png`
 - `Hooded_Figure_animated.png `
 - `Knight_animated.png`
