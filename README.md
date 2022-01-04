@@ -14,6 +14,13 @@ A README.md file exists for each folder. These README files contain the names of
 
 If you need additional help having your assets added to the repository, or you're experiencing difficulties downloading/using any assets from this repository, [join the GB Studio Discord](https://discord.gg/2hYeJ4m).
 
-# Looking for Community-made Tools and Templates?
+# Other Links and Community Hubs
 
-[See the list of Community Links.](https://github.com/DeerTears/GB-Studio-Community-Assets/blob/master/COMMUNITY_LINKS.md) This page contains links to tools, project templates, and asset packs for use with GB Studio.
+- [Get GB Studio]https://chrismaltby.itch.io/gb-studio)
+- [GB Studio Documentation](https://www.gbstudio.dev/docs)
+- [GB Studio Discord](https://discord.com/invite/dYeyUem)
+- [GB Studio Central - News, Interviews, Guides](https://gbstudiocentral.com/)
+- [GBS-Paradise - Forums](https://www.gbs-paradise.com/)
+- [r/gbstudio](https://www.reddit.com/r/gbstudio/)
+- [GB Studio Plugin Database](https://docs.google.com/spreadsheets/d/1d2F5hSEMt6nkacw-qVnYlT3IPHqmCCaLFhRboC5xxc0/edit#gid=0)
+- [Other Gameboy/GB Studio Community Links](https://github.com/DeerTears/GB-Studio-Community-Assets/blob/master/COMMUNITY_LINKS.md)
