@@ -17,9 +17,3 @@ If you need additional help having your assets added to the repository, or you'r
 # Looking for Community-made Tools and Templates?
 
 [See the list of Community Links.](https://github.com/DeerTears/GB-Studio-Community-Assets/blob/master/COMMUNITY_LINKS.md) This page contains links to tools, project templates, and asset packs for use with GB Studio.
-
-# Broken .mod Files Warning
-
-Back when the latest version was GB Studio Beta 2, there were multiple reports of some .mod files being unreadible by OpenMPT and causing GB Studio to crash on build. Remember to save your project before testing the game with new music. You can always test a .mod file risk-free using OpenMPT, saving it in OpenMPT is also known to fix "corrupted" mod files that were improperly saved in MilkyTracker.
-
-**Please report any bugged .mod files by name in the Issues tab!**
