@@ -16,11 +16,11 @@ If you need additional help having your assets added to the repository, or you'r
 
 # Other Links and Community Hubs
 
-- [Get GB Studio]https://chrismaltby.itch.io/gb-studio)
+- [GB Studio Download](https://chrismaltby.itch.io/gb-studio)
 - [GB Studio Documentation](https://www.gbstudio.dev/docs)
 - [GB Studio Discord](https://discord.com/invite/dYeyUem)
+- [GB Studio Plugin Database](https://docs.google.com/spreadsheets/d/1d2F5hSEMt6nkacw-qVnYlT3IPHqmCCaLFhRboC5xxc0/edit#gid=0)
 - [GB Studio Central - News, Interviews, Guides](https://gbstudiocentral.com/)
 - [GBS-Paradise - Forums](https://www.gbs-paradise.com/)
 - [r/gbstudio](https://www.reddit.com/r/gbstudio/)
-- [GB Studio Plugin Database](https://docs.google.com/spreadsheets/d/1d2F5hSEMt6nkacw-qVnYlT3IPHqmCCaLFhRboC5xxc0/edit#gid=0)
 - [Other Gameboy/GB Studio Community Links](https://github.com/DeerTears/GB-Studio-Community-Assets/blob/master/COMMUNITY_LINKS.md)
