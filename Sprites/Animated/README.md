@@ -41,3 +41,8 @@ By GumpyFunction
 - `Crow_flying.png`
 - `Crow_idle.png`
 - `Mimic_walk(4frames).png`
+
+By godai78
+- `kosmonaut.png`
+- `kosmonaut_eva.png`
+- `kosmonaut_girl.png`
