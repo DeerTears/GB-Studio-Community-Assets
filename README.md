@@ -4,7 +4,9 @@ For all users to submit their own works. Must be original and usable in GB Studi
 
 No attribution is required! All assets can be freely distributed and used commercially. If you're submitting your own work to this repo, you must be okay with it being used commercially and potentially redistributed without credit. Read the LICENCE file for more details.
 
-**Downloading .mod music?** GB Studio will *claim* the music files are corrupted if you download the entire repository as a .zip (with the green download button). Github changes the line endings when compressing files, and this confuses GB Studio. You can fix this by:
+# Downloading .mod music?
+
+GB Studio will *claim* the music files are corrupted if you download the entire repository as a .zip (with the green download button). Github changes the line endings when compressing files, and this confuses GB Studio. There are many ways to get around this, such as:
 - Opening the "corrupted" .mod file in OpenMPT and hitting Save.
 - Downloading the individual .mod file you want from here: [https://github.com/DeerTears/GB-Studio-Community-Assets/tree/master/Music](https://github.com/DeerTears/GB-Studio-Community-Assets/tree/master/Music)
 - Cloning this repository using a Git client like [https://desktop.github.com/](https://desktop.github.com/)
