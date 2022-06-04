@@ -12,7 +12,7 @@
 
 **Armanlone:**
 
-- `vintage_cursor.png` - "Cursor designed based on the vintage fleur de lis and Hollow Knight borders. With dark background. Recommended for the frames with similar color."
+- `fleur_de_lis_cursor.png` - "Cursor designed based on the fleur de lis and Hollow Knight borders. Recommended for dark frames and white fonts."
 
 ## Emotes
 
@@ -38,3 +38,7 @@
 **AstraLee:**
 
 - `SkyrimFrame.png` - "Designed similar to the UI of Skyrim. Recommend for use with inverted fonts."
+
+**Armanlone:**
+
+- `fleur_de_lis_frame.png` - "Dark background frame with four fleur de lis on each corner."
