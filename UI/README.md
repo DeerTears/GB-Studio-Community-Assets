@@ -10,6 +10,10 @@
 
 - `SkyrimCursor.png` - "Designed similar to the UI of Skyrim. Recommend for use with inverted fonts."
 
+**Armanlone:**
+
+- `vintage_cursor.png` - "Cursor designed based on the vintage fleur de lis and Hollow Knight borders. With dark background. Recommended for the frames with similar color."
+
 ## Emotes
 
 **Chris Maltby:**
