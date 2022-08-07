@@ -9,7 +9,6 @@ No attribution is required! All assets can be freely distributed and used commer
 GB Studio will *claim* the music files are corrupted if you download the entire repository as a .zip (with the green download button). Github changes the line endings when compressing files, and this confuses GB Studio. There are many ways to get around this, such as:
 - Opening the "corrupted" .mod file in OpenMPT and hitting Save.
 - Downloading the individual .mod file you want from here: [https://github.com/DeerTears/GB-Studio-Community-Assets/tree/master/Music](https://github.com/DeerTears/GB-Studio-Community-Assets/tree/master/Music)
-- Cloning this repository using a Git client like [https://desktop.github.com/](https://desktop.github.com/)
 - Downloading the GBSCA mirror on Mediafire: (coming soon)
 
 # How-To Credit
