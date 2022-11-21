@@ -9,9 +9,10 @@ Name | Author | Use | Website | From GB Community
 GylphBoy Swap | sododev | Hacks non-Latin Glyphs into GBS | https://sododev.itch.io/glyphboyswap | Yes
 Gameboy Sprite Exporter | momeka | Counts and Manages Unique 8x8 Background Tiles | https://momeka.itch.io/gameboy-tools | Yes
 RotSprite | Xenowhirl | Rotates pixel art | http://info.sonicretro.org/RotSprite | No
-Ft2Mod | James Park | Converts Famitracker text export into OpenMPT paste data | http://ft2mod.jamespark.ninja/ | Yes
-MaxBgCalc | James Park | Calculates X or Y image dimensions to help you maximize your background size | http://maxbgcalc.jamespark.ninja/ | Yes
-GbBgTxt | James Park | Generates images with text using your GB Studio font assets | http://gbbgtxt.jamespark.ninja/ | Yes
+Ft2Mod | James Park | Converts Famitracker text export into OpenMPT paste data | https://gb.jamespark.ninja/ft2mod/ | Yes
+MaxBgCalc | James Park | Calculates X or Y image dimensions to help you maximize your background size | https://gb.jamespark.ninja/maxbgcalc/ | Yes
+GbBgTxt | James Park | Generates images with text using your GB Studio font assets | https://gb.jamespark.ninja/gbbgtxt/ | Yes
+MIDI2MOD | James Park | Convert MIDI files to .mod compatible tracker output you can copy and paste! | https://gb.jamespark.ninja/midi2mod/ | Yes
 
 ## Project Templates
 
