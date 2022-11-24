@@ -45,3 +45,8 @@
 
 - `Commodore 64 ASCII.png`: A rip of the Commodore 64 ASCII files
 - `Commodore 64 ASCII - Dark.png`: A dark version of the Commodore 64 ASCII files
+
+**Santiago Crespo:**
+- `ACM-VGA.png`: A bold font, based on the [Chromatic Research MPACT 2 VGA BIOS font](https://int10h.org/oldschool-pc-fonts/fontlist/font?acm_vga_8x8)
+- `CompaqThin.png`: A thin font, based on a [custom DOS font made by Compaq](https://int10h.org/oldschool-pc-fonts/fontlist/font?compaqthin_8x8)
+
