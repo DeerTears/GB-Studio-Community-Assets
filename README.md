@@ -1,18 +1,12 @@
 ![alt text](https://github.com/DeerTears/GB-Studio-Community-Assets/blob/master/titlecard_july11_2019.png "GB Studio Community Assets Titlecard")
 
-For all users to submit their own works. Must be original and usable in GB Studio. **Please do not upload content that you did not make.**
+All assets must be original and usable in GB Studio. **Please do not upload content that you did not make.**
 
 No attribution is required! All assets can be freely distributed and used commercially. If you're submitting your own work to this repo, you must be okay with it being used commercially and potentially redistributed without credit. Read the LICENCE file for more details.
 
-PLEASE seek out the awesome work of the contributors listed in the credits! They have worked hard to provide amazing art for this repository.
-
 # Downloading .mod music?
 
-GB Studio may warn that certain music files are corrupted. This is only if you download the entire repository as a .zip (with the green download button). Github changes the line endings when compressing files, and this confuses GB Studio. There are many ways to get around this, such as:
-- Opening the "corrupted" .mod file in OpenMPT and hitting Save (changes the line endings)
-- Downloading the individual .mod file you want from here: [https://github.com/DeerTears/GB-Studio-Community-Assets/tree/master/Music](https://github.com/DeerTears/GB-Studio-Community-Assets/tree/master/Music)
-- Cloning this repository using a Git client like [https://desktop.github.com/](https://desktop.github.com/)
-- Downloading the GBSCA mirror on Mediafire: (coming soon)
+**Do not download the entire repository!** Instead, [click here to download a music-only .zip folder](https://github.com/DeerTears/GB-Studio-Community-Assets/releases/tag/v1.0) of this repository. Github changes line-endings when zipping a full repository, and this mismatch causes GBT Player to crash on compile. You can prevent this GBT Player crash by downloading the music release separately from the rest of the repository.
 
 # How-To Credit
 
