@@ -30,10 +30,10 @@ If you need additional help having your assets added to the repository, or you'r
 
 # Thanks
 
-Ember here. I really appreciate how the GB Studio community has come together for this repository. If you would like to support purely the organizational work I've done by maintaining this repository, consider [buying me a coffee](https://ko-fi.com/goodnightgirl).
+I'd like to thank Paige who has worked hard to maintain the repository and help me out with Github LFS. You can check her out on [Paige's Cohost](https://cohost.org/MxAshlynn).
+
+Ember here. I really appreciate how the GB Studio community has come together for this repository. If you would like to support purely the organizational work I've done by maintaining this repository, consider [buying me a coffee](https://ko-fi.com/goodnightgirl). There is no reward provided in supporting me, everyone is welcome to contribute or make suggestions of how to improve the repository.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R5EPWKI)
-
-There is no reward provided in supporting me, everyone is welcome to contribute or make suggestions of how to improve the repository.
 
 Happy developing!
