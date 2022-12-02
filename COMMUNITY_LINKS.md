@@ -13,6 +13,7 @@ Ft2Mod | James Park | Converts Famitracker text export into OpenMPT paste data |
 MaxBgCalc | James Park | Calculates X or Y image dimensions to help you maximize your background size | https://gb.jamespark.ninja/maxbgcalc/ | Yes
 GbBgTxt | James Park | Generates images with text using your GB Studio font assets | https://gb.jamespark.ninja/gbbgtxt/ | Yes
 MIDI2MOD | James Park | Convert MIDI files to .mod compatible tracker output you can copy and paste! | https://gb.jamespark.ninja/midi2mod/ | Yes
+2BitCharactersGenerator | 0x72 | Generate (human) Sprites for GBC with multiple Frames from slider-inputs (CC0 Licence) | https://0x72.itch.io/2bitcharactergenerator | ?
 
 ## Project Templates
 
