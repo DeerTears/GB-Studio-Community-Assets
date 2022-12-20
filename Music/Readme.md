@@ -138,3 +138,6 @@ Shared under the Attribution 4.0 CC Licence.
 **Overworld**
 - Darkstone Remix
 
+**Galaxy Stargraph**
+
+- my_streets2
