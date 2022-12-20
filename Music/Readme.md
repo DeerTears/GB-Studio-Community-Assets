@@ -124,9 +124,6 @@ Music Docs: https://www.gbstudio.dev/docs/music/
 - Darkstone - Delay-heavy song for caves, featured in the game 6rooms
 - The Gang's All Here - The intro part is out of key but it's otherwise a lighthearted song for walking in the park
 
-**MilkyTracker Templates**
-- template.xm - An authentic conversion of template.mod to .xm
-
 **Tomas Danko:**
 
 http://www.danko.se/
